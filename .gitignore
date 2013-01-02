@@ -1,0 +1,23 @@
+# IntelliJ #
+*.iml
+.idea/
+atlassian-ide-plugin.xml
+/lib/
+
+# Compiler #
+*.class
+out/
+target/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# oXygen XML Editor #
+*.xpr
+
+# Tests #
+
+# JRebel #
+rebel.xml
